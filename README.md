@@ -1,4 +1,6 @@
 # Conversor_de_temperatura
+## Requisitos:
+- Compilador `g++`.
 ## Como usar:
 1. Compile o programa:
    ```bash
